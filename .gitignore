@@ -40,5 +40,5 @@ out/
 
 
 ### 키 들어있는 파일 ###
-application.properties
+application-secret.properties
 /src/main/resources/static/assets/js/userLogin.js
